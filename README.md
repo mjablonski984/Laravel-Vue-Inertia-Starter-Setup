@@ -1,6 +1,7 @@
-## Laravel-Vue-SPA-Sanctum-Login-Setup
-Starter setup for Vue & Laravel project with Sanctum login system
-    <br>
+## Laravel-Vue-Inertia-Starter-Setup
+
+<br>
+
 ## Setup
 
 1. Install Composer Dependencies:
